@@ -4,7 +4,7 @@ A modern, professional IELTS preparation institute website built with React.js, 
 
 ## 🌟 Live Demo
 
-**Hosted Link:** [https://ielts-institute-website.netlify.app](https://ielts-institute-website.netlify.app)
+**Hosted Link:** [https://uainstitute.netlify.app/](https://uainstitute.netlify.app/)
 
 ## 📱 Features
 
